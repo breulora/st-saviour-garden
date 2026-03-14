@@ -48,6 +48,6 @@ if __name__ == '__main__':
                 print('🌿', end='')
             else:
                 print('🌺', end='')
-            print()
+        print()
 
     
